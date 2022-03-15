@@ -1,2 +1,2 @@
 first change
-second change
+new text in second line
