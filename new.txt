@@ -5,3 +5,4 @@ Commit in another-user
 =======
 commit in local 
 >>>>>>> 9379e762f71cf549bb5b8ff47847809109a97abe
+new text in text branch ;;;;
